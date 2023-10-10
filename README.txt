@@ -1,5 +1,5 @@
 Stellar by HTML5 UP
-html5up.net | @ajlkn
+html5up.net | @Prasanta Gorai
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -13,8 +13,8 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+PG
+Prasanta Gorai | @astrochempg
 
 
 Credits:
